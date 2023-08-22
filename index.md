@@ -20,3 +20,9 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 ## and then some
 
 var myVar = "Hello, world!";
+
+- [x] List syntax is required
+- [x] This item is complete
+- [ ] This item is not complete
+- [ ] testing4
+- [ ] testing5
