@@ -9,3 +9,14 @@
 ## now we add and image
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+
+## adding a block of code:
+
+$ git init
+
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+
+## and then some
+
+var myVar = "Hello, world!";
